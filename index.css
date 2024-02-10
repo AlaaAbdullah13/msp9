@@ -1,0 +1,74 @@
+.par {
+    border: 3px solid gray;
+    border-radius: 10px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    width: 500px;
+    height: 390px;
+    line-height: 1.5;
+    position: fixed;
+    top: 120px;
+    left: 420px;
+
+}
+
+.chil {
+    border: 3px solid rgba(128, 128, 128, 0.466);
+    border-radius: 10px;
+    border-left-color: rgba(128, 128, 128, 0);
+    border-top-color: rgba(128, 128, 128, 0);
+    width: 500px;
+    height: 390px;
+    position: absolute;
+    top: 127px;
+    left: 428px;
+
+
+}
+
+.child {
+    border: 3px solid rgba(128, 128, 128, 0.466);
+    border-radius: 10px;
+    border-left-color: rgba(128, 128, 128, 0);
+    border-top-color: rgba(128, 128, 128, 0);
+    width: 500px;
+    height: 390px;
+    position: absolute;
+    top: 132px;
+    left: 435px;
+
+
+}
+
+.childa {
+    border: 3px solid rgba(128, 128, 128, 0.466);
+    border-radius: 10px;
+    border-left-color: rgba(128, 128, 128, 0);
+    border-top-color: rgba(128, 128, 128, 0);
+    width: 500px;
+    height: 390px;
+    position: absolute;
+    top: 137px;
+    left: 441px;
+}
+
+ol {
+    list-style-type: none;
+}
+
+span {
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+    padding-left: 0px;
+    color: gray;
+}
+
+.par:hover span {
+    color: rgb(160, 22, 141);
+}
+
+:hover div{
+    box-shadow: 3px 4px 5px -1px rgb(77, 3, 67);
+}
+
